@@ -13,9 +13,6 @@ Open a Terminal (OSX/LINUX) or CMD (WINDOWS) and follow the below instructions.
 
 We have provided a requirements.txt for you to setup your python environment.
 
-Python Latest Version Download:
-https://www.python.org/downloads/
-
 
 Change directories to chess folder.
 ```
